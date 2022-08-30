@@ -1,1 +1,29 @@
-/* Copy and paste your CSS from CodePen into here */
+body {
+    font-family: system-ui;
+    background: silver;
+    color: green;
+    text-align: center;
+  }
+  <style>
+  .green-text {
+    color: green;
+  }
+  .silver.background {
+    background-color: silver;
+  }
+  #img-div {
+    width: auto;
+    height: auto;
+    max-width: 900px;
+    display: block;
+    text-align: center;
+    object-fit: fill;
+    margin: auto;
+  }
+  #image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
+  </style>
